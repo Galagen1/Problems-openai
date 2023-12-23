@@ -22,3 +22,6 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 
 
 Process finished with exit code 1
+
+I've tried all sorts of options and even used ChatGPT, but it didn't help me with that either.
+
